@@ -1,8 +1,8 @@
 # Social Media Backend with Express.js
 
-This repository contains the backend code for a social media platform built with Express.js. The backend provides APIs for user management, posts, comments, friendships, and notifications.
+This repository contains the backend code for a social media platform i am built with Express.js. The backend provides APIs for user management, posts, comments, friendships, and notifications.
 
-## Features
+## 🔧Features
 
 - **User Management:**
   - Create a new user
@@ -38,10 +38,15 @@ This repository contains the backend code for a social media platform built with
   - Create a new comment on a post
   - Update a comment
   - Delete a comment
+    
+## File Structure
+- routes: Contains route handlers for different entities (users, posts, comments, notifications, friendships).
+- controllers: Implements the logic for route handlers.
+- models: Defines Mongoose models for users, posts, notifications, etc.
+- app.js: The main application file that sets up Express and connects routes.
 
-## Getting Started
-
+## 📦Getting Started
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/express-social-media-backend.git
+   git clone https://github.com/Tariq-Monowa/express-social-media-backend.git
