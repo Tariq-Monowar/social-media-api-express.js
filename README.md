@@ -46,10 +46,10 @@ This repository contains the backend code for a social media platform i am built
 - app.js: The main application file that sets up Express and connects routes.
 
 ### env variable
-PORT=****
-DBURL=*******************
-SECRET_KEY=**************
-IMGBB_API_KEY=******************
+- PORT=****
+- DBURL=*******************
+- SECRET_KEY=**************
+- IMGBB_API_KEY=******************
 
 
 ## 📦Getting Started
