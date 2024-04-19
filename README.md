@@ -45,6 +45,13 @@ This repository contains the backend code for a social media platform i am built
 - models: Defines Mongoose models for users, posts, notifications, etc.
 - app.js: The main application file that sets up Express and connects routes.
 
+### env variable
+PORT=****
+DBURL=*******************
+SECRET_KEY=**************
+IMGBB_API_KEY=******************
+
+
 ## 📦Getting Started
 1. Clone the repository:
 
